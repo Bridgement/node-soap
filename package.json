@@ -1,5 +1,5 @@
 {
-  "name": "soap",
+  "name": "soap-with-security-updates",
   "version": "1.0.0",
   "description": "A minimal node SOAP client",
   "engines": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vpulim/node-soap.git"
+    "url": "https://github.com/Bridgement/node-soap"
   },
   "main": "./index.js",
   "types": "./lib/soap.d.ts",
